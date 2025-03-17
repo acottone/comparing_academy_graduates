@@ -5,3 +5,5 @@ This repository contains the code used to scrape player data from FBref, Transfe
 ## Contains:
 1. fbref.py: For scraping and processing data from FBref and creating per-90 statistics.
 2. Sofascore_work.ipynb: For scraping and processing data from Sofascore and creating average match ratings.
+3. TransferMarkt.ipynb: For scraping and processing data from TransferMarkt.
+4. Interactive visual.ipynb: For interactive visualizations.
