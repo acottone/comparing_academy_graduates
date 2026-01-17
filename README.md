@@ -2,6 +2,11 @@
 
 A comprehensive data analysis project comparing two elite football youth academies - **Arsenal's Hale End** and **Barcelona's La Masia** using large-scale web scraping and interactive visual analytics.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 ---
 
 ## TL;DR
@@ -170,6 +175,8 @@ python fbref.py
 - Run all cells in `Sofascore_work.ipynb`
 - Run all cells in `Interactive visual.ipynb`
 
+---
+
 ## Project Structure
 
 comparing-academy-graduates/
@@ -178,14 +185,43 @@ comparing-academy-graduates/
 ├── TransferMarkt.ipynb               # Market value scraping
 ├── Sofascore_work.ipynb              # Match rating scraping
 ├── Interactive visual.ipynb          # Interactive dashboard
+├── STA 141B Report.pdf
 ├── all_players_matches.csv
 ├── all_players_per90_stats.csv
-├── Transfermarkt_values.csv
-├── player_match_ratings2.csv
-├── result_df.csv
-├── STA 141B Report.pdf
 └── README.md
 
+--- 
 
-**Course:** STA141B
-**Contributors:** Angelina Cottone, Taarunya Sekaran, Kieran Sullivan
+## Ethical & Practical Considerations
+- Analysis does **not** evaluate player potential or future success
+- Market values are influenced by external factors (media, contracts)
+- Scraping respects rate limits and public data policies
+- Results intended for **educational and analytical purposes only**
+
+---
+
+## Technologies Used
+
+### Programming & Tools
+- Python
+- Pandas
+- BeautifulSoup
+- Requests
+- Plotly
+
+### Analytical Techniques
+- Web scraping with rate limiting
+- Time-series aggregation
+- Feature engineering
+- Interactive visualization
+
+---
+
+## Author
+Developed by a 3-person team for STA 141B.
+
+**Angelina Cottone, Taarunya Sekaran, Kieran Sullivan** 
+UC Davis, 2025
+
+---
+*Last Updated: March 2025*
