@@ -316,4 +316,14 @@ Developed by a 3-person team for STA 141B.
 *Date*: March 2025
 
 ---
+
+## References
+
+### Data Sources
+
+- FBref: https://fbref.com/en/
+- Transfermarkt: https://www.transfermarkt.com/
+- Sofascore: https://www.sofascore.com/
+
+---
 *Last Updated: January 2026*
